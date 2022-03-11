@@ -1,3 +1,3 @@
-api_secret = "RS9rLIqmGzTZaHmN485GGyGpwyQM9cf8"
-api_key = "57jIKvpl1jKKbgma"
-api_pass = "A@Youssef1324"
+api_secret = "XXX"
+api_key = "XXX"
+api_pass = "XXX"
